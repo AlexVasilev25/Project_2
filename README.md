@@ -1,4 +1,4 @@
-![](./images\gradient-sql-illustration_52683-80408.jpg)
+![](./images/gradient-sql-illustration_52683-80408.jpg)
 # <center> Анализ резюме из HeadHunter </center>
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
